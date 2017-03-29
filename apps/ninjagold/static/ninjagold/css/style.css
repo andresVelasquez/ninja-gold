@@ -87,6 +87,9 @@ header p {
     border-radius: 4px;
     font-size: 15px;
     font-weight: bold;
-    border: 1px solid black;
     color: white;
+}
+
+input[type=submit] {
+  border: 0;
 }
